@@ -5,7 +5,7 @@ Machine Learning Researcher with a background in Data Science and Engineering. C
 🏆 Academic & Professional Highlights
 - Incoming HPC Scholar at Chalmers University of Technology.
 - M.Sc. in Data Science & Engineering from NYCU (GPA: 4.16/4.30).
-- Research Assistant & Teaching Assistant at NYCU
+- Research Assistant & Teaching Assistant at NYCU.
 - 3rd Place, 2024 TSMC Smart Manufacturing Workshop. 
 - Outstanding Intern Award, Garmin (2022).
 - Honorable Mention, 2022 National Industrial Engineering and Management Competition.
