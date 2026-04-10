@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Chih-Chuan Cheng
 
-I am a Machine Learning Researcher transitioning into High-Performance Computing (HPC) Systems.  Currently, I am an incoming M.Sc. student at Chalmers University of Technology in Sweden, where I was awarded a scholarship to specialize in HPC. I have a background in Data Science and Engineering, and research experience in Tabular Deep Learning. I am now leveraging that foundation to dive deep into large-scale systems, performance optimization, and scalable AI.
+Machine Learning Researcher with a background in Data Science and Engineering. Currently specializing in High-Performance Computing (HPC), with a specific interest in scalable AI solutions. and large-scale system performance.
 
 🏆 Academic & Professional Highlights
 - Incoming HPC Scholar at Chalmers University of Technology.
