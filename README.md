@@ -3,7 +3,7 @@
 Machine Learning Researcher with a background in Data Science and Engineering. Currently specializing in High-Performance Computing (HPC), with a specific interest in scalable AI solutions. and large-scale system performance.
 
 🏆 Academic & Professional Highlights
-- Incoming HPC Scholar at Chalmers University of Technology.
+- HPC Scholar at Chalmers University of Technology.
 - M.Sc. in Data Science & Engineering from NYCU.
 - Research Assistant & Teaching Assistant at NYCU.
 - 3rd Place, 2024 TSMC Smart Manufacturing Workshop. 
